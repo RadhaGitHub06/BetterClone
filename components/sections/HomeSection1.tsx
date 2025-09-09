@@ -28,13 +28,7 @@ const HomeSection1 = () => {
         </div>
         <div className="md:w-1/2 relative h-[400px] w-full flex justify-center">
           <div className="relative h-[400px] w-[200px]">
-            <Image
-              src="/phone-mockup.png"
-              alt="Phone Mockup"
-              fill
-              style={{ objectFit: "contain" }}
-              priority
-            />
+         
           </div>
           <div className="absolute top-8 left-1/4 bg-green-800 text-white p-4 rounded-lg shadow-md w-48">
             <p className="text-xs">Congrats, you're pre-approved for a loan up to</p>
