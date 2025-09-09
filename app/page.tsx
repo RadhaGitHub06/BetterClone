@@ -1,4 +1,4 @@
-// @ts-nocheck
+
 //homepage
 import React from "react";
 import HomeSection1 from "@/components/sections/HomeSection1";
